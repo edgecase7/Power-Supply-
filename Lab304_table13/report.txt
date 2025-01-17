@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-F_Cu.gbr'.
+Plotted to 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-job.gbrjob'.
+Plotted to 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-F_Cu.gbr'.
+Plotted to 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-job.gbrjob'.
+Plotted to 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-F_Cu.gbr'.
+Plotted to 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Pradyut\Desktop\Power supply edited\Power supply edited\Power supply\power_suppy\power_suppy-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
